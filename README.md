@@ -31,7 +31,7 @@
 - 🧠 **Custom LLMs:** I've built my own LLM models and connected them to production apps, alongside GPT-4 and **RAG** pipelines.
 - 🔗 **Agent orchestration:** I use **LangChain** to manage multi-turn conversation context, tool use and webhook-driven automation.
 - 🧭 **Technical Lead at Vnnovate Solutions:** I lead an engineering team from architecture to multi-server production, and run sprints, code reviews and mentoring.
-- 🏗️ **Full stack:** **Node.js** APIs, **React / Vue** frontends, **MySQL / MongoDB / Redis**, **Docker + CI/CD** on **AWS & GCP**.
+- 🏗️ **Full stack:** **Node.js** APIs (plus **Laravel / PHP**), **React / Vue** frontends, **MySQL / MongoDB / Redis**, **Docker + CI/CD** on **AWS & GCP**.
 - 🌍 Based in **Ahmedabad, India** 🇮🇳
 
 ```typescript
@@ -41,7 +41,7 @@ const vasik: AIEngineer = {
   building: ["AI Voice Calling Agents", "Custom LLM Models", "AI Automation"],
   ai: ["OpenAI Realtime API", "GPT-4", "LangChain", "RAG", "Function Calling"],
   voice: ["Twilio Voice", "Realtime Speech", "Silence & Noise Detection"],
-  stack: ["Node.js", "TypeScript", "React", "Vue.js"],
+  stack: ["Node.js", "TypeScript", "React", "Vue.js", "Laravel"],
   cloud: ["AWS", "GCP", "Docker", "CI/CD"],
 };
 ```
@@ -103,27 +103,26 @@ Built to run in production, not just as a demo.
 
 **🧠 AI & LLMs**
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/GPT--4-10A37F?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime_API-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Custom_LLMs-bb9af7?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-7aa2f7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Function_Calling-7dcfff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/GPT--4-10A37F?style=for-the-badge&logo=openai&logoColor=white"/> <img src="https://img.shields.io/badge/Realtime_API-1a1b26?style=for-the-badge&logo=openai&logoColor=7aa2f7"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Custom_LLMs-bb9af7?style=for-the-badge"/> <img src="https://img.shields.io/badge/RAG-7aa2f7?style=for-the-badge"/> <img src="https://img.shields.io/badge/Function_Calling-7dcfff?style=for-the-badge&logoColor=black"/>
 
 **📞 Voice & Telephony**
 
 <img src="https://img.shields.io/badge/Twilio_Voice-F22F46?style=for-the-badge&logo=twilio&logoColor=white"/> <img src="https://img.shields.io/badge/AI_Voice_Agents-ff9e64?style=for-the-badge"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
 
-**⚙️ Backend**
+<br/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="25%"><b>⚙️ Backend</b><br/><br/><img src="https://skillicons.dev/icons?i=nodejs,express,ts,graphql,laravel,php&theme=dark&perline=3" alt="Node.js, Express, TypeScript, GraphQL, Laravel, PHP"/></td>
+<td align="center" width="25%"><b>🎨 Frontend</b><br/><br/><img src="https://skillicons.dev/icons?i=react,vue,js,tailwind,bootstrap,html&theme=dark&perline=3" alt="React, Vue, JavaScript, Tailwind, Bootstrap, HTML"/></td>
+<td align="center" width="25%"><b>🗄️ Data & Cloud</b><br/><br/><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,firebase,aws,gcp&theme=dark&perline=3" alt="MySQL, MongoDB, Redis, Firebase, AWS, GCP"/></td>
+<td align="center" width="25%"><b>🚀 DevOps & Tools</b><br/><br/><img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,git,postman&theme=dark&perline=3" alt="Docker, Nginx, Linux, GitHub Actions, Git, Postman"/></td>
+</tr>
+</table>
 
-**🎨 Frontend**
+**🔌 Integrations**
 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-
-**🗄️ Data & Cloud**
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-**🚀 DevOps & Integrations**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white"/> <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/> <img src="https://img.shields.io/badge/Braintree-000000?style=flat-square&logo=braintree&logoColor=white"/>
 
 </div>
 
@@ -187,6 +186,8 @@ Built to run in production, not just as a demo.
 
 *Built in India 🇮🇳 · Technical Lead · AI Voice Agents & Custom LLMs*
 
-<sub>Keywords: AI Engineer · Technical Lead · AI Voice Agents · AI Calling · Custom LLM · LLM Engineering · OpenAI Realtime API · GPT-4 · LangChain · RAG · Function Calling · Twilio Voice AI · Node.js · TypeScript · React · Vue.js · AWS · GCP · Docker</sub>
+<sub>Keywords: AI Engineer · Technical Lead · AI Voice Agents · AI Calling · Custom LLM · LLM Engineering · OpenAI Realtime API · GPT-4 · LangChain · RAG · Function Calling · Twilio Voice AI · Node.js · TypeScript · Laravel · React · Vue.js · AWS · GCP · Docker</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=120&section=footer" width="100%" alt=""/>
 
 </div>
