@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Vasik Mansuri, Technical Lead and Senior Full Stack Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#16161e"/>
+      <stop offset="1" stop-color="#1f2335"/>
+    </linearGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7aa2f7"/>
+      <stop offset="0.55" stop-color="#bb9af7"/>
+      <stop offset="1" stop-color="#7dcfff"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.15" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#7aa2f7" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7aa2f7" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.9" cy="0.9" r="0.6">
+      <stop offset="0" stop-color="#bb9af7" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#bb9af7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#292e42" stroke-width="1"/>
+    </pattern>
+    <style>
+      .mono { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',Menlo,Consolas,monospace; }
+      .sans { font-family: -apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif; }
+      @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+      .cursor { animation: blink 1.1s step-end infinite; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="340" rx="18" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#grid)" opacity="0.55"/>
+  <rect width="1280" height="340" rx="18" fill="url(#glow1)"/>
+  <rect width="1280" height="340" rx="18" fill="url(#glow2)"/>
+
+  <!-- left: identity -->
+  <text x="64" y="92" class="mono" font-size="18" fill="#565f89">~/vasikmansuri <tspan fill="#9ece6a">❯</tspan> whoami</text>
+  <text x="62" y="160" class="sans" font-size="64" font-weight="800" fill="url(#name)">Vasik Mansuri</text>
+  <text x="64" y="202" class="sans" font-size="24" font-weight="600" fill="#c0caf5">Technical Lead · Senior Full Stack Engineer</text>
+  <text x="64" y="236" class="sans" font-size="20" fill="#a9b1d6">AI Integration · Laravel · Node.js · React · Vue · AWS / GCP</text>
+
+  <g class="mono" font-size="15">
+    <rect x="64" y="266" width="132" height="32" rx="16" fill="#7aa2f7" fill-opacity="0.14" stroke="#7aa2f7" stroke-opacity="0.5"/>
+    <text x="130" y="287" text-anchor="middle" fill="#7aa2f7">6+ years</text>
+    <rect x="208" y="266" width="168" height="32" rx="16" fill="#bb9af7" fill-opacity="0.14" stroke="#bb9af7" stroke-opacity="0.5"/>
+    <text x="292" y="287" text-anchor="middle" fill="#bb9af7">AI voice agents</text>
+    <rect x="388" y="266" width="196" height="32" rx="16" fill="#9ece6a" fill-opacity="0.14" stroke="#9ece6a" stroke-opacity="0.5"/>
+    <text x="486" y="287" text-anchor="middle" fill="#9ece6a">Ahmedabad, India</text>
+  </g>
+
+  <!-- right: terminal window -->
+  <g transform="translate(760 48)">
+    <rect width="456" height="244" rx="12" fill="#1a1b26" stroke="#3b4261"/>
+    <path d="M0 12a12 12 0 0 1 12-12h432a12 12 0 0 1 12 12v24H0z" fill="#24283b"/>
+    <circle cx="22" cy="18" r="6" fill="#f7768e"/>
+    <circle cx="42" cy="18" r="6" fill="#e0af68"/>
+    <circle cx="62" cy="18" r="6" fill="#9ece6a"/>
+    <text x="228" y="23" text-anchor="middle" class="mono" font-size="13" fill="#565f89">vasik.ts</text>
+
+    <g class="mono" font-size="15">
+      <text x="22" y="70"><tspan fill="#bb9af7">const</tspan> <tspan fill="#c0caf5">vasik</tspan> <tspan fill="#89ddff">=</tspan> <tspan fill="#c0caf5">{</tspan></text>
+      <text x="44" y="98"><tspan fill="#7dcfff">role</tspan><tspan fill="#89ddff">:</tspan> <tspan fill="#9ece6a">"Technical Lead"</tspan><tspan fill="#c0caf5">,</tspan></text>
+      <text x="44" y="126"><tspan fill="#7dcfff">backend</tspan><tspan fill="#89ddff">:</tspan> <tspan fill="#c0caf5">[</tspan><tspan fill="#9ece6a">"Laravel"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Node"</tspan><tspan fill="#c0caf5">],</tspan></text>
+      <text x="44" y="154"><tspan fill="#7dcfff">frontend</tspan><tspan fill="#89ddff">:</tspan> <tspan fill="#c0caf5">[</tspan><tspan fill="#9ece6a">"React"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"Vue"</tspan><tspan fill="#c0caf5">],</tspan></text>
+      <text x="44" y="182"><tspan fill="#7dcfff">ai</tspan><tspan fill="#89ddff">:</tspan> <tspan fill="#c0caf5">[</tspan><tspan fill="#9ece6a">"OpenAI"</tspan><tspan fill="#c0caf5">, </tspan><tspan fill="#9ece6a">"LangChain"</tspan><tspan fill="#c0caf5">],</tspan></text>
+      <text x="22" y="210" fill="#c0caf5">};<tspan class="cursor" fill="#7aa2f7"> ▍</tspan></text>
+    </g>
+  </g>
+</svg>
