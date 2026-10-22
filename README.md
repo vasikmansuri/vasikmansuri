@@ -32,6 +32,12 @@
 <a href="https://github.com/vasikmansuri/tokyo-night-macos-setup">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vasikmansuri&repo=tokyo-night-macos-setup&bg_color=0a0f18&title_color=c6ff3d&text_color=8b98ad&icon_color=22d3ee&border_color=1a2332&border_radius=14" alt="tokyo-night-macos-setup: one-command macOS developer setup with a Tokyo Night theme"/>
 </a>
+<a href="https://github.com/vasikmansuri/agentconfig-doctor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vasikmansuri&repo=agentconfig-doctor&bg_color=0a0f18&title_color=c6ff3d&text_color=8b98ad&icon_color=22d3ee&border_color=1a2332&border_radius=14" alt="agentconfig-doctor: MCP security scanner and config linter for AI coding agents"/>
+</a>
+<a href="https://github.com/vasikmansuri/devmemory">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vasikmansuri&repo=devmemory&bg_color=0a0f18&title_color=c6ff3d&text_color=8b98ad&icon_color=22d3ee&border_color=1a2332&border_radius=14" alt="devmemory: persistent local-first memory for AI coding agents"/>
+</a>
 
 </div>
 
