@@ -73,6 +73,11 @@ Technical Lead at **Vnnovate Solutions** with 6+ years of experience, based in A
 - **Jaguar Land Rover South Africa, dealer management system** (core architecture): inventory sync pipelines, lead tracking portals and live analytics dashboards.
 - **High-traffic APIs and microservices:** secure REST and GraphQL APIs tuned with DB indexing, Redis caching and background queues.
 
+**Open source**
+- [agentconfig-doctor](https://github.com/vasikmansuri/agentconfig-doctor): MCP security scanner and config linter for AI coding agents.
+- [devmemory](https://github.com/vasikmansuri/devmemory): persistent local-first memory for AI coding agents.
+- [tokyo-night-macos-setup](https://github.com/vasikmansuri/tokyo-night-macos-setup): one-command macOS developer setup with a Tokyo Night theme.
+
 **Stack:** OpenAI (GPT-4, Realtime API), LangChain, Twilio, RAG, function calling · Node.js, Express, TypeScript, GraphQL, Laravel, PHP · React, Vue.js, Tailwind CSS · MySQL, MongoDB, Redis, Firebase · AWS, GCP, Docker, Nginx, GitHub Actions
 
 **Experience**
