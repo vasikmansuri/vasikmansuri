@@ -10,6 +10,7 @@
 <p>
   <a href="https://www.linkedin.com/in/vasik-mansuri-94b9ab190"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-c6ff3d?style=for-the-badge&logo=linkedin&logoColor=c6ff3d&labelColor=0a0f18" alt="LinkedIn"/></a>
   <a href="mailto:mansurivasik@gmail.com"><img src="https://img.shields.io/badge/EMAIL-mansurivasik%40gmail.com-22d3ee?style=for-the-badge&logo=gmail&logoColor=22d3ee&labelColor=0a0f18" alt="Email"/></a>
+  <a href="https://buymeacoffee.com/vasikmansuri"><img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-SUPPORT-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=ffdd00&labelColor=0a0f18" alt="Buy Me a Coffee"/></a>
   <img src="https://hits.sh/github.com/vasikmansuri.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=a78bfa&labelColor=0a0f18" alt="Profile views"/>
 </p>
 
