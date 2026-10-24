@@ -91,3 +91,5 @@ Technical Lead at **Vnnovate Solutions** with 6+ years of experience, based in A
 **Education:** MCA, GLS University (2018–2020) · BCA, St. Xavier's College (2015–2018)
 
 </details>
+
+<sub>Open to open-source collaboration — feel free to open an issue on any of my repos.</sub>
