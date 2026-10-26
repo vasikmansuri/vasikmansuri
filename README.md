@@ -43,6 +43,12 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vasikmansuri&repo=devmemory&bg_color=0a0f18&title_color=c6ff3d&text_color=8b98ad&icon_color=22d3ee&border_color=1a2332&border_radius=14" alt="devmemory: persistent local-first memory for AI coding agents"/>
 </a>
 
+**Published on npm**
+
+<a href="https://www.npmjs.com/package/@vasikmansuri/agentconfig-doctor"><img src="https://img.shields.io/npm/v/%40vasikmansuri%2Fagentconfig-doctor?style=for-the-badge&logo=npm&logoColor=c6ff3d&label=agentconfig-doctor&labelColor=0a0f18&color=1a2332" alt="npm: @vasikmansuri/agentconfig-doctor"/></a>
+<a href="https://www.npmjs.com/package/@vasikmansuri/devmemory"><img src="https://img.shields.io/npm/v/%40vasikmansuri%2Fdevmemory?style=for-the-badge&logo=npm&logoColor=c6ff3d&label=devmemory&labelColor=0a0f18&color=1a2332" alt="npm: @vasikmansuri/devmemory"/></a>
+<a href="https://www.npmjs.com/package/@vasikmansuri/calling-agent-toolkit"><img src="https://img.shields.io/npm/v/%40vasikmansuri%2Fcalling-agent-toolkit?style=for-the-badge&logo=npm&logoColor=c6ff3d&label=calling-agent-toolkit&labelColor=0a0f18&color=1a2332" alt="npm: @vasikmansuri/calling-agent-toolkit"/></a>
+
 </div>
 
 <img src="./assets/sec-uplink.svg" width="100%" alt="Section 07: Contact"/>
@@ -78,9 +84,9 @@ Technical Lead at **Vnnovate Solutions** with 6+ years of experience, based in A
 - **High-traffic APIs and microservices:** secure REST and GraphQL APIs tuned with DB indexing, Redis caching and background queues.
 
 **Open source**
-- [universal-calling-agent-toolkit](https://github.com/vasikmansuri/universal-calling-agent-toolkit): provider-neutral telephony adapters (Twilio, Plivo, Telnyx, Vonage), audio pipeline, email capture, STT and RAG for AI calling agents. TypeScript + Python.
-- [agentconfig-doctor](https://github.com/vasikmansuri/agentconfig-doctor): MCP security scanner and config linter for AI coding agents.
-- [devmemory](https://github.com/vasikmansuri/devmemory): persistent local-first memory for AI coding agents.
+- [universal-calling-agent-toolkit](https://github.com/vasikmansuri/universal-calling-agent-toolkit): provider-neutral telephony adapters (Twilio, Plivo, Telnyx, Vonage), audio pipeline, email capture, STT and RAG for AI calling agents. TypeScript + Python. [npm](https://www.npmjs.com/package/@vasikmansuri/calling-agent-toolkit)
+- [agentconfig-doctor](https://github.com/vasikmansuri/agentconfig-doctor): MCP security scanner and config linter for AI coding agents. [npm](https://www.npmjs.com/package/@vasikmansuri/agentconfig-doctor)
+- [devmemory](https://github.com/vasikmansuri/devmemory): persistent local-first memory for AI coding agents. [npm](https://www.npmjs.com/package/@vasikmansuri/devmemory)
 - [tokyo-night-macos-setup](https://github.com/vasikmansuri/tokyo-night-macos-setup): one-command macOS developer setup with a Tokyo Night theme.
 
 **Stack:** OpenAI (GPT-4, Realtime API), LangChain, Twilio, RAG, function calling · Node.js, Express, TypeScript, GraphQL, Laravel, PHP · React, Vue.js, Tailwind CSS · MySQL, MongoDB, Redis, Firebase · AWS, GCP, Docker, Nginx, GitHub Actions
