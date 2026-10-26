@@ -30,6 +30,9 @@
 
 <div align="center">
 
+<a href="https://github.com/vasikmansuri/universal-calling-agent-toolkit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vasikmansuri&repo=universal-calling-agent-toolkit&bg_color=0a0f18&title_color=c6ff3d&text_color=8b98ad&icon_color=22d3ee&border_color=1a2332&border_radius=14" alt="universal-calling-agent-toolkit: telephony adapters, audio pipeline, email capture, STT and RAG for AI calling agents"/>
+</a>
 <a href="https://github.com/vasikmansuri/tokyo-night-macos-setup">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vasikmansuri&repo=tokyo-night-macos-setup&bg_color=0a0f18&title_color=c6ff3d&text_color=8b98ad&icon_color=22d3ee&border_color=1a2332&border_radius=14" alt="tokyo-night-macos-setup: one-command macOS developer setup with a Tokyo Night theme"/>
 </a>
@@ -75,6 +78,7 @@ Technical Lead at **Vnnovate Solutions** with 6+ years of experience, based in A
 - **High-traffic APIs and microservices:** secure REST and GraphQL APIs tuned with DB indexing, Redis caching and background queues.
 
 **Open source**
+- [universal-calling-agent-toolkit](https://github.com/vasikmansuri/universal-calling-agent-toolkit): provider-neutral telephony adapters (Twilio, Plivo, Telnyx, Vonage), audio pipeline, email capture, STT and RAG for AI calling agents. TypeScript + Python.
 - [agentconfig-doctor](https://github.com/vasikmansuri/agentconfig-doctor): MCP security scanner and config linter for AI coding agents.
 - [devmemory](https://github.com/vasikmansuri/devmemory): persistent local-first memory for AI coding agents.
 - [tokyo-night-macos-setup](https://github.com/vasikmansuri/tokyo-night-macos-setup): one-command macOS developer setup with a Tokyo Night theme.
